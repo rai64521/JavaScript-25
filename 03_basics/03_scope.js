@@ -43,7 +43,7 @@ if(true){
 // console.log(username);      // username is not accessible here it is out of scope
 
 
-// ++++++++++++++++++++++++++++++++++++++ nteresting ++++++++++++++++++++++++++++++++++++++++++++++++++++
+// ++++++++++++++++++++++++++++++++++++++ Interesting ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 console.log(addone(4));

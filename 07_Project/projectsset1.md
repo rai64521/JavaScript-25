@@ -68,3 +68,15 @@ form.addEventListener("submit", (e)=>{
 
 })
 ```
+
+# Project 3
+
+```javascript
+
+const clock = document.querySelector('#clock');
+
+setInterval(() => {
+  clock.innerHTML = new Date().toLocaleTimeString();
+}, 1000);
+
+```
